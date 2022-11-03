@@ -1,0 +1,6 @@
+entity {
+  name String required
+  description String
+  created_at Instance
+  updated_at Instance
+}
